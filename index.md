@@ -2,3 +2,6 @@
 ## This is a second header
 ### This is a third header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```javascript
+var myVar = "¡Hola mundo!";
+```
